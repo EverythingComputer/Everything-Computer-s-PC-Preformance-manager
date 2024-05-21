@@ -1,3 +1,3 @@
-This is a PC Preformance manager i made myself.
-Every week, i will update the program.
-Verson 1.1 will come out soon.
+What's new in verson 1.1:
+1. 3 New options are avaible
+2. The Re-start and shutdown option now work
